@@ -115,7 +115,7 @@ class Main {
         for (Component component : vddNodeComponents){
             System.out.print("{ type: "+component.type+", id:"+component.id+"} ");
         }
-        System.out.println(");
+        System.out.println("");
 
         /*
         *       results
